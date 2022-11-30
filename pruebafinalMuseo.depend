@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1669770811 source:c:\users\alejo\desktop\universidad\programacion\tda\pruebafinalmuseo\director.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"director.h"
+	"obras.h"
+	"museo.h"
+
+1669770768 source:c:\users\alejo\desktop\universidad\programacion\tda\pruebafinalmuseo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"director.h"
+	"obras.h"
+	"museo.h"
+
+1669770332 c:\users\alejo\desktop\universidad\programacion\tda\pruebafinalmuseo\obras.h
+
+1669770718 source:c:\users\alejo\desktop\universidad\programacion\tda\pruebafinalmuseo\museo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"director.h"
+	"obras.h"
+	"museo.h"
+
+1669770763 source:c:\users\alejo\desktop\universidad\programacion\tda\pruebafinalmuseo\obras.h.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"director.h"
+	"obras.h"
+	"museo.h"
+
+1669770332 c:\users\alejo\desktop\universidad\programacion\tda\pruebafinalmuseo\director.h
+
+1669770709 c:\users\alejo\desktop\universidad\programacion\tda\pruebafinalmuseo\museo.h
+
